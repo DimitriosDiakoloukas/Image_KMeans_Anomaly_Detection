@@ -157,8 +157,6 @@ def cloud_kmeans_anomaly_detection(data):
 
     return anomalies
 
-
-# DES AYTO TO KOMMATI KODIKA ###########################################
 '''
 # Function to perform K-means clustering on features and create a new image
 def kmeans_clustering_image(data, n_clusters, output_path):
