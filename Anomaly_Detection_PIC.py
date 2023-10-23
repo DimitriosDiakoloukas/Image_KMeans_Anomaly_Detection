@@ -9,13 +9,13 @@ from mpl_toolkits.mplot3d import Axes3D
 
 # Paths for each of the images
 # Path for cloud image
-path1 = "/home/ddlouk/devel/project1/Pics/detection_pic1.png"
+path1 = "/...your_path/detection_pic1.png"
 
 # Path for NDVI image
-path2 = "/home/ddlouk/devel/project1/Pics/detection_pic2.png"
+path2 = "/...your_path/detection_pic2.png"
 
 # Path for truecolor image 
-path3 = "/home/ddlouk/devel/project1/Pics/detection_pic3.png"
+path3 = "/...your_path/detection_pic3.png"
 
 # Image loading
 # Cloud image loading
